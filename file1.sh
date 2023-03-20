@@ -7,4 +7,4 @@ echo "What is your name?"
 read name
 
 
-echo "hello brother, $name"
+echo "hello brother how are you?, $name"
